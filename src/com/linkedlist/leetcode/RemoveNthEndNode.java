@@ -1,4 +1,4 @@
-package com.linkedlist;
+package com.linkedlist.leetcode;
 
 public class RemoveNthEndNode {
 

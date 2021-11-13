@@ -1,4 +1,4 @@
-package com.array;
+package com.array.leetcode;
 public class ArrayReverse {
 	private void reverse(int[] arr, int low, int high) {
 		for (int i = low, j = high; i < j; i++, j--) {

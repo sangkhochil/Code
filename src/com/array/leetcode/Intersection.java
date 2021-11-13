@@ -1,4 +1,4 @@
-package com.array;
+package com.array.leetcode;
 
 class MyNode {
 	MyNode next;
