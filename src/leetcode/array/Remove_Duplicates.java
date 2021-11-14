@@ -1,4 +1,4 @@
-package com.array.leetcode;
+package leetcode.array;
 
 public class Remove_Duplicates {
 	public void problem() {

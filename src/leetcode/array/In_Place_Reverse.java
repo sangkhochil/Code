@@ -1,4 +1,4 @@
-package com.array.leetcode;
+package leetcode.array;
 
 public class In_Place_Reverse {
 	void problem(){
