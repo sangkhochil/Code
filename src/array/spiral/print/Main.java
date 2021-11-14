@@ -38,6 +38,7 @@ class SpiralPrint {
 				for (i = m - 1; i >= r; i--) {
 					System.out.print(arr[i][c] + " ");
 				}
+				c++;
 			}
 
 		}
